@@ -1,0 +1,1 @@
+east_extractor.py --east frozen_east_text_detection.pb --image example.jpg
